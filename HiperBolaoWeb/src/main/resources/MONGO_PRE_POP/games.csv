@@ -1,0 +1,64 @@
+1,A,1,Arábia Saudita,0,5,Rússia,QUI,14/06/2018,12:00,Estádio Lujniki,Moscou,D,V,5,5,,,,2,SEG,0,1
+2,A,1,Egito,0,1,Uruguai,SEX,15/06/2018,9:00,Arena Ecaterimburgo,Ecaterimburgo,D,V,1,1,,,,3,TER,0,1
+3,B,1,Irã,1,0,Marrocos,SEX,15/06/2018,12:00,Estádio de São Petersburgo,São Petersburgo,V,D,1,1,,,,4,QUA,1,0
+4,B,1,Espanha,3,3,Portugal,SEX,15/06/2018,15:00,Estádio Olímpico de Fisht,Sochi,E,E,0,6,,,,5,QUI,0,1
+5,C,1,Austrália,1,2,França,SAB,16/06/2018,7:00,Arena Kazan,Kazan,D,V,1,3,,,,6,SEX,0,1
+6,D,1,Argentina,1,1,Islândia,SAB,16/06/2018,10:00,Estádio Spartak,Moscou,E,E,0,2,,,,7,SAB,1,0
+7,C,1,Dinamarca,1,0,Peru,SAB,16/06/2018,13:00,Arena Mordóvia,Saransk,V,D,1,1,,,,,,0,1
+8,D,1,Croácia,2,0,Nigéria,SAB,16/06/2018,16:00,Estádio de Kaliningrado,Kaliningrado,V,D,2,2,,,,,,1,0
+9,E,1,Costa Rica,0,1,Sérvia,DOM,17/06/2018,9:00,Arena Rostov,Rostov-do-Don,D,V,1,1,,,,,,0,1
+10,F ,1,Alemanha,0,1,México,DOM,17/06/2018,12:00,Estádio Lujniki,Moscou,D,V,1,1,,,,,,1,0
+11,E,1,Brasil,1,1,Suíça,DOM,17/06/2018,15:00,Arena Cosmos,Samara,E,E,0,2,,,,,,1,0
+12,F,1,Coréia do Sul,0,1,Suécia,SEG,18/06/2018,9:00,Estádio Nizhny Novgorod,Nijni Novgorod,D,V,1,1,,,,,,0,1
+13,G,1,Bélgica,3,0,Panamá,SEG,18/06/2018,12:00,Estádio Olímpico de Fisht,Sochi,V,D,3,3,,,,,,1,0
+14,G,1,Inglaterra,2,1,Tunísia,SEG,18/06/2018,15:00,Estádio Volgogrado,Volgogrado,V,D,1,3,,,,,,1,0
+15,H,1,Colômbia,1,2,Japão,TER,19/06/2018,9:00,Arena Mordóvia,Saransk,D,V,1,3,,,,,,1,0
+16,H,1,Polônia,1,2,Senegal,TER,19/06/2018,12:00,Estádio Spartak,Moscou,D,V,1,3,,,,,,1,0
+17,A,2,Egito,1,3,Rússia,TER,19/06/2018,15:00,Estádio de São Petersburgo,São Petersburgo,D,V,2,4,,,,,,0,1
+18,B,2,Marrocos,0,1,Portugal,QUA,20/06/2018,9:00,Estádio Lujniki,Moscou,D,V,1,1,,,,,,0,1
+19,A,2,Arábia Saudita,0,1,Uruguai,QUA,20/06/2018,12:00,Arena Rostov,Rostov-do-Don,D,V,1,1,,,,,,0,1
+20,B,2,Espanha,1,0,Irã,QUA,20/06/2018,15:00,Arena Kazan,Kazan,V,D,1,1,,,,,,1,0
+21,C,2,Austrália,1,1,Dinamarca,QUI,21/06/2018,9:00,Arena Cosmos,Samara,E,E,0,2,,,,,,0,1
+22,C,2,França,1,0,Peru,QUI,21/06/2018,12:00,Arena Ecaterimburgo,Ecaterimburgo,V,D,1,1,,,,,,1,0
+23,D,2,Argentina,0,3,Croácia,QUI,21/06/2018,15:00,Estádio Nizhny Novgorod,Nijni Novgorod,D,V,3,3,,,,,,1,0
+24,E,2,Brasil,2,0,Costa Rica,SEX,22/06/2018,9:00,Estádio de São Petersburgo,São Petersburgo,V,D,2,2,,,,,,1,0
+25,D,2,Islândia,0,2,Nigéria,SEX,22/06/2018,12:00,Estádio Volgogrado,Volgogrado,D,V,2,2,,,,,,0,1
+26,E,2,Sérvia,1,2,Suíça,SEX,22/06/2018,15:00,Estádio de Kaliningrado,Kaliningrado,D,V,1,3,,,,,,0,1
+27,G,2,Bélgica,5,2,Tunísia,SAB,23/06/2018,9:00,Estádio Spartak,Moscou,V,D,3,7,,,,,,1,0
+28,F,2,Coréia do Sul,1,2,México,SAB,23/06/2018,12:00,Arena Rostov,Rostov-do-Don,D,V,1,3,,,,,,0,1
+29,F,2,Alemanha,2,1,Suécia,SAB,23/06/2018,15:00,Estádio Olímpico de Fisht,Sochi,V,D,1,3,,,,,,1,0
+30,G,2,Inglaterra,6,1,Panamá,DOM,24/06/2018,9:00,Estádio Nizhny Novgorod,Nijni Novgorod,V,D,5,7,,,,,,1,0
+31,H,2,Japão,2,2,Senegal,DOM,24/06/2018,12:00,Arena Ecaterimburgo,Ecaterimburgo,E,E,0,4,,,,,,0,1
+32,H,2,Colômbia,3,0,Polônia,DOM,24/06/2018,15:00,Arena Kazan,Kazan,V,D,3,3,,,,,,0,1
+33,A,3,Arábia Saudita,2,1,Egito,SEG,25/06/2018,11:00,Estádio Volgogrado,Volgogrado,V,D,1,3,,,,,,0,1
+34,A,3,Rússia,0,3,Uruguai,SEG,25/06/2018,11:00,Arena Cosmos,Samara,D,V,3,3,,,,,,0,1
+35,B,3,Espanha,2,2,Marrocos,SEG,25/06/2018,15:00,Estádio de Kaliningrado,Kaliningrado,E,E,0,4,,,,,,1,0
+36,B,3,Irã,1,1,Portugal,SEG,25/06/2018,15:00,Arena Mordóvia,Saransk,E,E,0,2,,,,,,0,1
+37,C,3,Dinamarca,0,0,França,TER,26/06/2018,11:00,Estádio Lujniki,Moscou,E,E,0,0,,,,,,0,1
+38,C,3,Austrália,0,2,Peru,TER,26/06/2018,11:00,Estádio Olímpico de Fisht,Sochi,D,V,2,2,,,,,,0,1
+39,D,3,Croácia,2,1,Islândia,TER,26/06/2018,15:00,Arena Rostov,Rostov-do-Don ,V,D,1,3,,,,,,1,0
+40,D,3,Argentina,2,1,Nigéria,TER,26/06/2018,15:00,Estádio de São Petersburgo,São Petersburgo ,V,D,1,3,,,,,,1,0
+41,F,3,Alemanha,0,2,Coréia do Sul,QUA,27/06/2018,11:00,Arena Kazan,Kazan,D,V,2,2,,,,,,1,0
+42,F,3,México,0,3,Suécia,QUA,27/06/2018,11:00,Arena Ecaterimburgo,Ecaterimburgo,D,V,3,3,,,,,,1,0
+43,E,3,Brasil,2,0,Sérvia,QUA,27/06/2018,15:00,Estádio Spartak,Moscou,V,D,2,2,,,,,,1,0
+44,E,3,Costa Rica,2,2,Suíça,QUA,27/06/2018,15:00,Estádio Nizhny Novgorod,Nijni Novgorod,E,E,0,4,,,,,,0,1
+45,H,3,Japão,0,1,Polônia,QUI,28/06/2018,11:00,Estádio Volgogrado,Volgogrado,D,V,1,1,,,,,,0,1
+46,H,3,Colômbia,1,0,Senegal,QUI,28/06/2018,11:00,Arena Cosmos,Samara,V,D,1,1,,,,,,1,0
+47,G,3,Bélgica,1,0,Inglaterra,QUI,28/06/2018,15:00,Estádio de Kaliningrado,Kaliningrado,V,D,1,1,,,,,,1,0
+48,G,3,Panamá,1,2,Tunísia,QUI,28/06/2018,15:00,Arena Mordóvia,Saransk,D,V,1,3,,,,,,0,1
+49,Oitavas,1,França,4,3,Argentina,SAB,30/06/2018,11:00,Arena Kazan,Kazan,V,D,1,7,,,,,,1,0
+50,Oitavas,2,Uruguai,2,1,Portugal,SAB,30/06/2018,15:00,Estádio Olímpico de Fisht,Sochi,V,D,1,3,,,,,,1,0
+51,Oitavas,3,Espanha,4,5,Rússia,DOM,01/07/2018,11:00,Estádio Lujniki,Moscou,D,V,1,9,,,,,,1,0
+52,Oitavas,4,Croácia,4,3,Dinamarca,DOM,01/07/2018,15:00,Estádio Nizhny Novgorod,Nijni Novgorod,V,D,1,7,,,,,,1,0
+53,Oitavas,5,Brasil,2,0,México,SEG,02/07/2018,11:00,Arena Cosmos,Samara,V,D,2,2,,,,,,1,0
+54,Oitavas,6,Bélgica,3,2,Japão,SEG,02/07/2018,15:00,Arena Rostov,Rostov-do-Don,V,D,1,5,,,,,,1,0
+55,Oitavas,7,Suécia,1,0,Suíça,TER,03/07/2018,11:00,Estádio de São Petersburgo,São Petersburgo,V,D,1,1,,,,,,1,0
+56,Oitavas,8,Colômbia,4,5,Inglaterra,TER,03/07/2018,15:00,Estádio Spartak,Moscou,D,V,1,9,,,,,,1,0
+57,Quartas,1,Uruguai,0,2,França,SEX,06/07/2018,11:00,Estádio Nizhny Novgorod,Nijni Novgorod,D,V,2,2,,,,,,0,1
+58,Quartas,2,Brasil,1,2,Bélgica,SEX,06/07/2018,15:00,Arena Kazan,Kazan,D,V,1,3,,,,,,1,0
+59,Quartas,3,Rússia,5,6,Croácia,SAB,07/07/2018,15:00,Estádio Olímpico de Fisht,Sochi,D,V,1,11,,,,,,1,0
+60,Quartas,4,Suécia,0,2,Inglaterra,SAB,07/07/2018,11:00,Arena Cosmos,Samara,D,V,2,2,,,,,,1,0
+61,Semi-finais,1,França,1,0,Bélgica,TER,10/07/2018,15:00,Estádio de São Petersburgo,São Petersburgo,V,D,1,1,,,,,,0,1
+62,Semi-finais,2,Croácia,2,1,Inglaterra,QUA,11/07/2018,15:00,Estádio Lujniki,Moscou,V,D,1,3,,,,,,0,1
+63,Terceiro,1,Bélgica,,,Inglaterra,SAB,14/07/2018,11:00,Estádio de São Petersburgo,São Petersburgo,,,0,0,,,,,,0,1
+64,Final,1,França,,,Croácia,DOM,15/07/2018,12:00,Estádio Lujniki,Moscou,,,0,0,,,,,,,

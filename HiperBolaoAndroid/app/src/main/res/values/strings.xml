@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hiper Bolao</string>
+    <string name="title_standings">Classificação</string>
+    <string name="title_games">Partidas</string>
+    <string name="error">Erro ao carregar dados</string>
+    <string name="versus">X</string>
+    <string name="in_progress">Em andamento</string>
+</resources>

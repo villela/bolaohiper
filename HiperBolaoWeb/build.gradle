@@ -1,0 +1,76 @@
+buildscript {
+	ext {
+		kotlinVersion = '1.2.50'
+		springBootVersion = '2.0.2.RELEASE'
+	}
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+		classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
+		classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
+	}
+}
+
+plugins {
+	id "com.heroku.sdk.heroku-gradle" version "1.0.1"
+}
+
+apply plugin: 'kotlin'
+apply plugin: 'kotlin-spring'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+apply plugin: "com.heroku.sdk.heroku-gradle"
+
+group = 'com.matheusvillela.bolaohiperweb'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+heroku {
+	appName = "hiperbolao"
+	processTypes(
+			web: 'java $JAVA_OPTS -Dserver.port=$PORT -jar build/libs/bolaohiperweb-0.0.1-SNAPSHOT.jar'
+	)
+}
+
+compileKotlin {
+	kotlinOptions {
+		freeCompilerArgs = ["-Xjsr305=strict"]
+		jvmTarget = "1.8"
+	}
+}
+compileTestKotlin {
+	kotlinOptions {
+		freeCompilerArgs = ["-Xjsr305=strict"]
+		jvmTarget = "1.8"
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+
+dependencies {
+	compile('org.springframework.boot:spring-boot-starter-data-mongodb')
+	compile('org.springframework.boot:spring-boot-starter-web')
+    compile("cz.jirutka.spring:embedmongo-spring:1.3.1")
+    compile("de.flapdoodle.embed:de.flapdoodle.embed.mongo:2.0.1")
+	compile('com.fasterxml.jackson.module:jackson-module-kotlin')
+	compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+	compile("org.jetbrains.kotlin:kotlin-reflect")
+
+	compile 'pl.droidsonroids:jspoon:1.0.0'
+	compile 'pl.droidsonroids.retrofit2:converter-jspoon:1.0.0'
+	compile 'com.squareup.retrofit2:retrofit:2.3.0'
+	compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+
+	compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.6")
+
+	compile 'net.sf.jtidy:jtidy:r938'
+
+	testCompile('org.springframework.boot:spring-boot-starter-test')
+	testCompile("de.flapdoodle.embed:de.flapdoodle.embed.mongo:2.0.1")
+}
